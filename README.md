@@ -16,3 +16,10 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+## Team Roles
+
+- **Team Leader**: Responsible for coordinating the team's efforts, ensuring that tasks are completed on time, and facilitating communication among team members.
+- **Developer**: Responsible for writing code, implementing features, and fixing bugs as assigned by the team leader.
+- **Tester**: Responsible for testing the code, identifying bugs, and ensuring that the software meets the specified requirements.
+- **Documenter**: Responsible for maintaining documentation, including code comments, README files, and any other relevant documentation that helps the team and future developers understand the project.
