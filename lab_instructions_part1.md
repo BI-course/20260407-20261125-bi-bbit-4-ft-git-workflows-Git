@@ -70,7 +70,7 @@ Example issues for the lab:
 
 * **Member 1:** Issue #1 - 50% Complete Milestone - Title: feature/lab-1/update-project-README. Description: Update the project's README with team roles.
 * **Member 2:** Issue #2 - 50% Complete Milestone - Title: feature/lab-1/research-on-data-sources. Description: Create a `data_source.md` file reviewing sources of data in a business.
-* **Member 3:** Issue #3 - 50% Complete Milestone - Title: feature/lab-1/research-on-star-schema. Description: Create a `warehouse_schema.md` describing a Star Schema.
+* **Member 3:** Issue #3 - 50% Complete Milestone - Title: feature/lab-1/research-on-star-schema. Description: 
 * **Member 4:** Issue #4 - 75% Complete Milestone - Title: feature/lab-1/research-on-ETL-ELT-EtLT. Description: Create a `data_pipeline.md` differentiating between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry.
 * **Member 5:** Issue #5 - 100% Complete Milestone - Title: feature/lab-1/research-on-data-governance. Description: Add a `governance.md` file reviewing data governance and access to PII.
 
@@ -127,7 +127,7 @@ git status
 You can configure the default commit message editor to be **VS Code** for better formatting of the commit message body. Run the following command:
 
 ```bash
-git config --global core.editor "code --wait"
+
 ```
 
 Once ready, stage and commit it:

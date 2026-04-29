@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
 # Collaborative Git Workflows
 
 | Key              | Value                                                                                                                                                                                                                                                        |
@@ -15,3 +16,15 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+<<<<<<< HEAD
+
+## Group roles 
+##  **Member 1:**(Bernard ) Update the project's README with team roles.
+## * **Member 2:**(Keisha) Create a `data_source.md` file reviewing sources of data in a business.
+## **Member 3:**(Jeannette) Create a `warehouse_schema.md` describing a Star Schema.
+## **Member 4:**(Katanu & cindy) Create a `data_pipeline.md` differentiating between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry.
+## **Member 5:**(lydiah ) Add a `governance.md` file reviewing data governance and access to PII.
+=======
+Project lead: Member 4 - responsible for overall coordination.
+>>>>>>> main
+This is the WRONG information
