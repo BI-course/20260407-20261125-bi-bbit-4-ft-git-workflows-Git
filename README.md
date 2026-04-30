@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
 # Collaborative Git Workflows
 
 | Key              | Value                                                                                                                                                                                                                                                        |
@@ -15,3 +16,20 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+
+## Project Team & Contributions
+
+| Member | Responsibility |
+|--------|---------------|
+| @comarkezine | Project documentation maintenance and `README.md` updates. |
+| @kinuthia-mark | Authored `data_source.md` providing a comprehensive review of business data sources. |
+| @j-kingz | Developed `warehouse_schema.md` detailing the Star Schema architecture. |
+| @RichardKituyi | Architected the `data_pipeline.md` file. |
+| @Bakhitarose | Research lead on data integration methodologies (**ETL**, **ELT**, and **EtLT**) specifically regarding industry legal compliance. |
+| @Arsenendimanya151311 | Authored `governance.md` focusing on data governance frameworks and PII (Personally Identifiable Information) access protocols. |
+<img width="1493" height="838" alt="Screenshot 2026-04-30 153752" src="https://github.com/user-attachments/assets/f731e820-79c5-4299-940b-69c25c91d27a" />
+<img width="1738" height="899" alt="Screenshot 2026-04-30 154555" src="https://github.com/user-attachments/assets/e5eba2d0-0163-4034-a44a-7b0d78189e68" />
+<img width="1487" height="967" alt="Screenshot 2026-04-30 155954" src="https://github.com/user-attachments/assets/41144190-f0c4-455a-8200-0217e0285dc4" />
+
+
