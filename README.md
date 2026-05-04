@@ -16,3 +16,11 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+## Team Roles
+
+- Member 1: Team Lead – coordination and repository governance-(Carson)
+- Member 2: Data Sources Research-(Mugisha)
+- Member 3: Data Warehouse Schema-(Shem)
+- Member 4: Data Pipelines (ETL/ELT)-(Javen)
+- Member 5: Data Governance and PII-(Mugisha and Shem)
