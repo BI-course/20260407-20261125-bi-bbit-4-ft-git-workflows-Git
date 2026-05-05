@@ -1,0 +1,1 @@
+A star schema is a widely used design for organizing data in a data warehouse for the sake of business reporting and analysis. The diagram essentially looks like a star, having one central table and multiple radiating outwards from it. 

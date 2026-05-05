@@ -1,17 +1,11 @@
-# Collaborative Git Workflows
+First Change
+Member 1 - Issue #1 - 50% Complete Milestone
+Member 2 - Issue #2 - 50% Complete Milestone
+Member 3 -  Issue #3 - 50% Complete Milestone
+Member 4 -  Issue #4 - 75% Complete Milestone
+Member 1 - Issue #5 - 100% Complete Milestone
 
-| Key              | Value                                                                                                                                                                                                                                                        |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Course Codes** | BBT 4106                                                                                                                                                                                                                     |
-| **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13)                                                                                                                                                                             |
-| **Semester**     | April to July 2026                                                                                                                                                                                                           |
-| **Lecturer**     | Allan Omondi                                                                                                                                                                                                                 |
-| **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
-| **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
+modifying README to test merging conflicts
 
-## Lab Manuals
+#updating the the data_source.md file with the milestone already achieved.
 
-Refer to the files in the order specified below for more details:
-
-- [lab_instructions_part1.md](lab_instructions_part1.md)
-- [lab_instructions_part2.md](lab_instructions_part2.md)
